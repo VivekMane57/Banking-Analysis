@@ -40,6 +40,8 @@ Credit Card Balances & Business Lending
 
 # Dashboards
 Loan Analysis
+<img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/b151c65e-28d5-4252-b056-56c423bc6f7e" />
+
 Deposit Analysis
 Summary Dashboard
 Home Dashboard

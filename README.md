@@ -39,9 +39,15 @@ Checking, Savings, and Foreign Currency Accounts
 Credit Card Balances & Business Lending
 
 # Dashboards
-Loan Analysis
+Home1 For Male
 <img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/b151c65e-28d5-4252-b056-56c423bc6f7e" />
+Home2 for Female
+<img width="1359" height="734" alt="image" src="https://github.com/user-attachments/assets/b5c5ddc1-f913-4a91-8108-b86235dba4bf" />
+
+Loan Analysis
+<img width="1326" height="737" alt="image" src="https://github.com/user-attachments/assets/7f251054-6707-484e-8f01-6517990eb2e6" />
 
 Deposit Analysis
-Summary Dashboard
-Home Dashboard
+<img width="1349" height="745" alt="image" src="https://github.com/user-attachments/assets/d08b0e30-0f47-4242-9d15-c4d479419eea" />
+
+
